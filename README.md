@@ -1,2 +1,2 @@
 # CS275-Poject
-Nick, Matt, Henry
+Nick, Matt, Henry CS-275 Bearly Free Scheduler
