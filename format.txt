@@ -1,0 +1,6 @@
+name (blank or "open" for open appointments)
+date of appointment
+time of appointment
+length of appointment
+fellow name
+paper draft file name
